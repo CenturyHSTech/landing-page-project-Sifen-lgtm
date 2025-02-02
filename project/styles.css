@@ -16,7 +16,7 @@ h1 {
 }
 
 header nav ul {
-    text-decoration: none;
+    list-style: none;
     padding: 0;
     margin: 1rem 0 0;
 }
@@ -29,6 +29,7 @@ header nav ul li a {
     background-color: #003366;
     font-weight: bold;
     border-color: #8DC8FB;
+    min-width: 5em;
 }
 header nav ul li a:link {
     color: #8DC8FB;
