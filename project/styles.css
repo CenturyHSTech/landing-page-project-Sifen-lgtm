@@ -16,7 +16,7 @@ h1 {
 }
 header nav {
     background-color: #003366;
-    margin: 0;
+    margin: 8;
 }
 header nav ul {
     list-style: none;
