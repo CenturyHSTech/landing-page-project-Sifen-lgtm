@@ -27,7 +27,7 @@ header nav ul {
 }
 header nav ul li {
     display: inline;
-    margin-right: 1rem;
+    margin-right: 3rem;
 }
 header nav ul li a {
     text-decoration: none;
