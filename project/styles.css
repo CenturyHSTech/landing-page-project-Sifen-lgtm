@@ -28,6 +28,7 @@ header nav ul li a {
     color: #ffffff;
     background-color: #003366;
     font-weight: bold;
+    border-color: #8DC8FB;
 }
 header nav ul li a:link {
     color: #8DC8FB;
