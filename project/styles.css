@@ -14,24 +14,32 @@ h1 {
     font-size: 2.5em;
     margin: 0;
 }
-
+header nav {
+    background-color: #8DC8FB;
+    margin: 0;
+}
 header nav ul {
     list-style: none;
-    padding: 0;
+    margin: 0%;
+    padding: 3em;
     display: flex;
-    border-bottom: #8DC8FB;
+    border-bottom: 1px solid #8DC8FB;
 }
 header nav ul li {
     display: inline;
     margin-right: 1rem;
 }
 header nav ul li a {
+    text-decoration: none;
+    display: block;
+    padding: 1em 0.5em;
+    border: 1px solid #D8EBF3;
     color: #ffffff;
     background-color: #003366;
     font-weight: bold;
     border-color: #8DC8FB;
     min-width: 5em;
-    
+    border-bottom: none;
 }
 header nav ul li a:link {
     color: #8DC8FB;
