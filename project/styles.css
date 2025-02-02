@@ -23,11 +23,11 @@ header nav ul {
     margin: 0;
     padding: 0;
     display: flex;
-    border-bottom: 2px solid #8DC8FB;
+    border-bottom: 1px solid #8DC8FB;
 }
 header nav ul li {
     display: inline;
-    margin-right: 3rem;
+    margin-right: 1rem;
 }
 header nav ul li a {
     text-decoration: none;
@@ -38,7 +38,7 @@ header nav ul li a {
     background-color: #003366;
     font-weight: bold;
     border-color: #8DC8FB;
-    min-width: 5em;
+    min-width: 2em;
     border-bottom: none;
 }
 header nav ul li a:link {
