@@ -1,0 +1,93 @@
+body {
+    font-family: 'Merriweather', serif;
+    color: #333333;
+    background-color: #D8EBF3;
+    line-height: 1.9;
+}
+header {
+    background-color: #003366;
+    color: #ffffff;
+    text-align: center;
+}
+
+h1 {
+    font-size: 2.5em;
+    margin: 0;
+}
+
+header nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 1rem 0 0;
+}
+header nav ul li {
+    display: inline;
+    margin-right: 1rem;
+}
+header nav ul li a {
+    color: #ffffff;
+    background-color: #003366;
+    font-weight: bold;
+}
+header nav ul li a:link {
+    color: #8DC8FB;
+}
+header nav ul li a:visited {
+    color: #E2BEB1;
+}
+header nav ul li a:hover {
+    color: #EDB5B5;
+}
+main {
+    max-width: 900px;
+    min-height: 1275px;
+    margin: 2rem auto;
+    padding: 1rem;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: left;
+}
+figure img {
+    max-width: 100%;
+    height: auto;
+}
+figure {
+    margin: 2rem 0;
+    text-align: center;
+}
+.image-figure {
+    margin: 2rem auto;
+    padding: 1rem;
+    border-radius: 8px;
+    float: right;
+    margin-right: 15px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+section h2 {
+    color: #003366;
+    margin-bottom: 0.5rem;
+}
+p, ul {
+    margin-bottom: 1rem;
+}
+
+footer {
+    text-align: center;
+    padding: 1rem;
+    background-color: #003366;
+    color: #ffffff;
+    margin-top: 2rem;
+}
+
+a:link {
+    color: #034012;
+}
+
+a:visited {
+    color: #513206;
+}
+a:hover {
+    color: #771d1d;
+}
